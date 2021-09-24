@@ -7,7 +7,7 @@ Respective Views for CRUD operations
 Technologies used:
 .NET CORE
 MVC Architecture
-Entity Framework Code-First
+Entity Framework
 
 
 
